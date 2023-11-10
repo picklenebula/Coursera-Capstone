@@ -20,15 +20,18 @@
   1. Who collected and provided the data?
 
      *-[Motivate LLC](https://en.wikipedia.org/wiki/Motivate_(company))*
-  3. Is it a credible source?
+  2. Is it a credible source?
 
      *-Yes, Motivate LLC is a bike share service provider with a known history.*
-  4. Can the data be publically scrutinized for errors?
+  3. Can the data be publically scrutinized for errors?
    
      *-Yes, it is a publically available data set that anyone can use or critique.*
-  5. Is the data recent enough to be useful?
+  4. Is the data recent enough to be useful?
 
      *-Yes, the data was collected during 2023.*
-  6. What license is being used to access and use this data?
+  5. What license is being used to access and use this data?
 
      *-The data is being accessed under the [https://divvybikes.com/data-license-agreement](https://divvybikes.com/data-license-agreement) license.*
+  6. Privacy, security and accessibility, in brief.
+
+     *-There is no unique identifiable user data in the data set, the local data set is not secured beyond a windows login, the cleaned data set wll be publically available for review.*
