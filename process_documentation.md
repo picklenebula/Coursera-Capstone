@@ -24,3 +24,9 @@
   3. Can the data be publically scrutinized for errors?
    
      *-Yes, it is a publically available data set that anyone can use or critique.*
+  4. Is the data recent enough to be useful?
+
+     *-Yes, the data was collected during 2023.*
+  5. What license is being used to access and use this data?
+
+     *-The data is being accessed under the [https://divvybikes.com/data-license-agreement](https://divvybikes.com/data-license-agreement) license.*
