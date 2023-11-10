@@ -2,4 +2,4 @@
 #### This repository will document and follow my Coursera capstone project progress and act as an initial portfolio piece for data analysis.
 ---
 #### List of notable files:
-[Process Documentation](Coursera-Capstone/process_documentation.md)
+[Process Documentation](process_documentation.md)
