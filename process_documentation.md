@@ -35,3 +35,11 @@
   6. Privacy, security and accessibility, in brief.
 
      *-There is no unique identifiable user data in the data set, the local data set is not secured beyond a windows login, the cleaned data set wll be publically available for review.*
+  7. Has the data integrity been preserved during transfer?
+
+     *-By comparing hash values for the files we can confirm the data has not been corrupted during transfer.*
+   
+  
+   8. Are there issues with the data?
+      >[!WARNING]
+      >*-Yes, there are many rows with missing data that will need to removed or reconcilled based on contextual data points to fill in the blanks.*
