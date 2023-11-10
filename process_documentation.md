@@ -17,16 +17,18 @@
 ##### Organization
   *-We need to identify how the data is organized so we can better understand its credibility.*
 
-  1. Who collected and provided the data? [Motivate LLC](https://en.wikipedia.org/wiki/Motivate_(company))
-  2. Is it a credible source?
+  1. Who collected and provided the data?
+
+     *-[Motivate LLC](https://en.wikipedia.org/wiki/Motivate_(company))*
+  3. Is it a credible source?
 
      *-Yes, Motivate LLC is a bike share service provider with a known history.*
-  3. Can the data be publically scrutinized for errors?
+  4. Can the data be publically scrutinized for errors?
    
      *-Yes, it is a publically available data set that anyone can use or critique.*
-  4. Is the data recent enough to be useful?
+  5. Is the data recent enough to be useful?
 
      *-Yes, the data was collected during 2023.*
-  5. What license is being used to access and use this data?
+  6. What license is being used to access and use this data?
 
      *-The data is being accessed under the [https://divvybikes.com/data-license-agreement](https://divvybikes.com/data-license-agreement) license.*
