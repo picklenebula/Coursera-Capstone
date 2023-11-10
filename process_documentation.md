@@ -3,9 +3,10 @@
 ---
 #### Section Links:
 [Preperation Phase](process_documentation.md#preperation-phase)
+[Process Phase](process_documentation.md#process-phase)
 
----
-#### Preparation Phase
+ ---
+### Preparation Phase
 
 #### # Storage 
   *-Let's store the data locally in preparation for sorting and cleaning before uploading to BigQuery.*
@@ -43,3 +44,6 @@
    8. Are there issues with the data?
       >[!WARNING]
       >*-Yes, there are many rows with missing data that will need to removed or reconcilled based on contextual data points to fill in the blanks.*
+      
+ ---
+### Process Phase
