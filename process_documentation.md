@@ -5,7 +5,10 @@
 [Preperation Phase](process_documentation.md#preperation-phase)
 
 ---
-#### Preperation Phase
+#### Preparation Phase
+
+##### Storage
+
 1. Data downloaded from [https://divvy-tripdata.s3.amazonaws.com/index.html](https://divvy-tripdata.s3.amazonaws.com/index.html).
 2. Data chosen: *202310-divvy-tripdata.zip*.
 3. *202310-divvy-tripdata.csv* saved locally to project folder *capstone_project_20231110*.
