@@ -5,4 +5,4 @@
 [Preperation Phase](process_documentation.md#preperation-phase)
 
 ---
-##### Preperation Phase
+#### Preperation Phase
