@@ -8,7 +8,7 @@
 #### Preparation Phase
 
 ##### Storage
-  *##Let's store the data locally in preparation for sorting and cleaning before uploading to BigQuery*
+  *-Let's store the data locally in preparation for sorting and cleaning before uploading to BigQuery-*
 
 1. Data downloaded from [https://divvy-tripdata.s3.amazonaws.com/index.html](https://divvy-tripdata.s3.amazonaws.com/index.html).
 2. Data chosen: *202310-divvy-tripdata.zip*.
