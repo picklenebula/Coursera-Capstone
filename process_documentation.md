@@ -3,6 +3,7 @@
 ---
 #### Section Links:
 [Preperation Phase](process_documentation.md#preperation-phase)
+
 [Process Phase](process_documentation.md#process-phase)
 
  ---
